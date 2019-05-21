@@ -7,7 +7,8 @@
 #081376026952
 #IGnya juga Bennetto29 
 clear
-cd module
+
+
 blue='\033[34;1m'
 green='\033[32;1m'  
 purple='\033[35;1m'
@@ -25,7 +26,7 @@ echo
 echo "" 
 echo "\033[32;1m<><><><><><>FR05H<><><><><>" |lolcat
 echo "\033[31;1mAuthor:\033[33;1mFR05H" 
-echo "\033[36;1mTeam : \033[033;2mSilent Ghost" 
+echo "\033[36;1mTeam : \033[033;2mpukpuk" 
 echo "\033[33;1mWA:\033[37;1m081376026952" 
 echo "" 
 echo "\033[33;1mPilih tools yg ingin di install" |lolcat
